@@ -2,8 +2,8 @@
 using namespace std;
 class area
 {
-	public
-		
+	public:
+		float a,b,ar;
     area(int x,int y)
 	{
 		cout<<x+y;
